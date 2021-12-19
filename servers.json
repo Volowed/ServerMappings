@@ -1066,4 +1066,11 @@
             "kingdomserver.be"
         ]
     }
+    {
+        "id": "lyriabedwars",
+        "name": "LyriaBedwars",
+        "addresses": [
+            "play.lyriabedwars.com"
+        ]
+    },
 ]
