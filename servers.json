@@ -1529,4 +1529,11 @@
             "virtualhit.es"
         ]
     }
+    {
+        "id": "lyriabedwars",
+        "name": "Lyria Bedwars",
+        "addresses": [
+            "play.lyriabedwars.com"
+        ]
+    },
 ]
